@@ -25,15 +25,3 @@ function App() {
     </HashRouter>
   )
 }
-
-// O BrowserRouter con basename
-function App() {
-  return (
-    <BrowserRouter basename="/ReactLand---portfolio">
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/contacto" element={<Contact />} />
-      </Routes>
-    </BrowserRouter>
-  )
-}
