@@ -1,4 +1,4 @@
-# 🚀 Portfolio de Proyectos
+# 🚀 Portfolio de Projects
 
 Portafolio personal desarrollado con React y Vite.
 
@@ -84,11 +84,11 @@ Variables CSS personalizadas para:
 
 ## 🖼️ Vista Previa
 
-🔗 **Demo en vivo**: [Próximamente]
+🔗 [[**Demo en vivo**](https://luisda-291105.github.io/ReactLand---portfolio/)]
 
-📂 **Repositorio**: [GitHub - Tu Repo]
+📂 [[**Repositorio**](https://github.com/luisda-291105/ReactLand---portfolio)]
 
-👤 **Perfil GitHub**: [Tu Perfil]
+👤 [[**Perfil GitHub**](https://github.com/luisda-291105)]
 
 ---
 
